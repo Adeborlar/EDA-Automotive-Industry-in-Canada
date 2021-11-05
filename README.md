@@ -3,7 +3,7 @@
 
 ![alt text](https://github.com/Adeborlar/EDA-Automotive-Industry-in-Canada/blob/main/1604588601817.jpg)
 
-The objective of this project is to carry out an analysis of the automobile industry in Canada. <br>
+The objective of this project is to carry out an analysis of the automotive industry in Canada. <br>
 
 ## Why this industry? <br>
 • Auto manufacturing contributes over $16 billion to Canadian GDP. <br>
