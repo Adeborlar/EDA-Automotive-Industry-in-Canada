@@ -18,8 +18,8 @@ The objective of this project is to carry out an analysis of the automotive indu
 All facts [here](www.cvma.ca/industry/facts/) <br> <br>
 
 ## What do we want to do?
-Investors are always looking for new business opportunities to increase their capital, expecting from their investment a high return with the probability of lower losses.<br>
-Therefore, some of the investors in Canada see great potential in the vehicle industry. However, they need a better understanding of this industry, which allows them to have an overview of where to focus their investment. <br>
+Investors are always looking for new business opportunities to increase their capital, expecting from their investment a high return with the probability of lower losses.<br><br>
+Therefore, some of the investors in Canada see great potential in the vehicle industry. However, they need a better understanding of this industry, which allows them to have an overview of where to focus their investment. <br> <br>
 Our Project group will create a descriptive analytical product to examine the historical behavior of vehicles sales in Canada, and in this way help investors gain insights about this industry, which can be useful to clarify the potential of this market and define if they decide to invest or not. <br> <br>
 
 ## What do we want to Analyze?
@@ -37,7 +37,7 @@ This first part of the project is just about exploring data from the different d
 11. What is the behavior of the gross margin versus the cost of goods sold by province and type of dealer?
 
 ## Data sets <br>
-All information about data set can be found in the file EDA-Automotive Industry in Canada <br>
+All information about data set can be found in the file EDA-Automotive Industry in Canada <br><br>
 
 ## Team members
 
