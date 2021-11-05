@@ -37,15 +37,15 @@ This first part of the project is just about exploring data from the different d
 11. What is the behavior of the gross margin versus the cost of goods sold by province and type of dealer?
 
 ## Data sets <br>
-All information about data set can be found in the file EDA-Automotive Industry in Canada <br><br>
+All information about data set can be found in the file EDA-Automotive Industry in Canada <br>
 
 ## Team members
 
-[Vaibhav Chaudhary](https://www.linkedin.com/in/vaibhav-chaudhary-30/)
-[Neha Dewangan](https://www.linkedin.com/in/neha-dewangan-5a37051b8/)
-[Harold Espinosa](https://www.linkedin.com/in/harold-espinosa/)
-[Mahima Gupta](https://www.linkedin.com/in/mahima-gupta-14655213a/)
-[Adebola Olaberinjo](https://www.linkedin.com/in/adebola-olaberinjo/)
+[Vaibhav Chaudhary](https://www.linkedin.com/in/vaibhav-chaudhary-30/) <br>
+[Neha Dewangan](https://www.linkedin.com/in/neha-dewangan-5a37051b8/) <br>
+[Harold Espinosa](https://www.linkedin.com/in/harold-espinosa/) <br>
+[Mahima Gupta](https://www.linkedin.com/in/mahima-gupta-14655213a/) <br>
+[Adebola Olaberinjo](https://www.linkedin.com/in/adebola-olaberinjo/) <br>
 
 
 
