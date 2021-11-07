@@ -15,7 +15,7 @@ The objective of this project is to carry out an analysis of the automotive indu
 • Canada is the 11th leading vehicle producer in the world. <br>
 • Canada is dependent on exporting outside of its own borders. <br> <br>
 
-All facts [here](www.cvma.ca/industry/facts/) <br> <br>
+All facts [here](https://www.cvma.ca/industry/facts/) <br> <br>
 
 ## What do we want to do?
 Investors are always looking for new business opportunities to increase their capital, expecting from their investment a high return with the probability of lower losses.<br><br>
